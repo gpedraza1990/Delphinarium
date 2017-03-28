@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<title>My Example</title>
+
+<!-- Bootstrap 4 alpha CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css" integrity="sha384-2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K+xjboZdsXyp4oUHZj" crossorigin="anonymous">
+<style>
+body {
+padding-top: 1em;
+}	
+</style>
+<div class="container-fluid">
+		
+<style scoped="true">
+article.scrollspy-example { 
+position: relative;
+overflow: scroll; 
+width: 350px;
+height: 160px;
+}
+</style>
+
+  <nav id="scrollspy-nav" class="navbar navbar-default">
+    <ul class="nav nav-pills">
+      <li class="nav-item"><a class="nav-link" href="#bast">Bast</a></li>
+      <li class="nav-item"><a class="nav-link" href="#brogan">Brogan</a></li>
+      <li class="nav-item"><a class="nav-link" href="#calceology">Calceology</a></li>
+    </ul>
+  </nav>
+  <article data-spy="scroll" data-target="#scrollspy-nav" data-offset="0" class="scrollspy-example">
+    <h4 id="bast">Bast Shoes</h4>
+    <p>Bast shoes are shoes made primarily from bast (fiber from the bark of the linden tree or birch tree). They are a kind of basket, woven and fitted to the shape of a foot. Bast shoes are an obsolete traditional footwear of the forest areas of Northern Europe, formerly worn by poorer members of the Finnic peoples, Balts, and East Slavs. They were easy to manufacture, but not durable.</p>
+    <h4 id="brogan">Brogan</h4>
+    <p>Brogan-like shoes, called "brogues", were made and worn in Scotland and Ireland as early as the 16th century, and the shoe-type probably originated there.</p>
+    <h4 id="calceology">Calceology</h4>
+    <p>Calceology is the study of footwear, especially historical footwear whether as archaeology, shoe fashion history, or otherwise.</p>
+    <p>Calceology comprises the examination, registration, research and conservation of leather shoe fragments.</p>
+    <p>However, calceology is not yet formally recognized as a field of research. </p>
+  </article>
+
+
+</div>
+		
+<!-- jQuery library -->
+<script type="text/javascript" src="../vendor/jquery/dist/jquery.min.js"></script>
+<!-- Tether -->
+<script type="text/javascript " src="../vendor/tether/dist/js/tether.min.js"></script>
+
+<!-- Bootstrap 4 Alpha JS -->
+ <script type="text/javascript" src="../vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+<!-- Initialize Bootstrap functionality -->
+<script>
+// Initialize tooltip component
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
+// Initialize popover component
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})
+   $("#scrollspy-nav").scrollspy();
+         
+            // The event is fired when an item gets actived with the scrollspy
+            $("#scrollspy-nav").on('activate.bs.scrollspy', function () {
+               var currentSection = "a";
+            })
+   $(window).on('activate.bs.scrollspy', function () {
+	    console.log('sup')
+	  }) 
+</script>

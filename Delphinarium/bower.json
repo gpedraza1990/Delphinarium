@@ -1,0 +1,18 @@
+{
+  "name": "Delfinario web page",
+  "description": "web design for delfinario site",
+  "main": "index.html",
+  "keywords": [
+    "delfinario"
+  ],
+  "authors": [
+    "Ing Gabriel Pedraza"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.5",
+    "font-awesome": "^4.7.0"
+  }
+}
