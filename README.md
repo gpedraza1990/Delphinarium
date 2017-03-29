@@ -1,5 +1,5 @@
 
-
+GET /repos/gpedraza1990/Delphinarium/releases
 
 |**title**|**description**|
 |:-:|:-:|
