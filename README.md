@@ -1,5 +1,5 @@
 
-https://github.com/gpedraza1990/Delphinarium/releases
+GET /github.com/gpedraza1990/Delphinarium/releases
 
 |**title**|**description**|
 |:-:|:-:|
