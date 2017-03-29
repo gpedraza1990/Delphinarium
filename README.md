@@ -20,22 +20,17 @@
 
 	### Full Screen Views
 
-<img src="Delphinarium/screenShots/HomeFullScreen.png" width="300" height="250">
-<img src="Delphinarium/screenShots/HomeFullScreen2.png" width="300" height="250">
-<img src="Delphinarium/screenShots/AboutFullScreen.png" width="300" height="250">
-<img src="Delphinarium/screenShots/OffersFullScreen.png" width="300" height="250">
+<img src="Delphinarium/screenShots/HomeFullScreen.png" width="300" height="250"> <img src="Delphinarium/screenShots/HomeFullScreen2.png" width="300" height="250">
+<img src="Delphinarium/screenShots/AboutFullScreen.png" width="300" height="250"> <img src="Delphinarium/screenShots/OffersFullScreen.png" width="300" height="250">
 
 ### Middle Screen View
 
-<img src="Delphinarium/screenShots/HomeMiddleScreen.png" width="300" height="250">
-<img src="Delphinarium/screenShots/HomeMiddleScreen2.png" width="300" height="250">
+<img src="Delphinarium/screenShots/HomeMiddleScreen.png" width="300" height="250"> <img src="Delphinarium/screenShots/HomeMiddleScreen2.png" width="300" height="250">
 
 ### Mobile Screen View
 
-<img src="Delphinarium/screenShots/HomeMobileScreen.png" width="200" height="250">
-<img src="Delphinarium/screenShots/HomeMobileScreen2.png" width="200" height="250">
-<img src="Delphinarium/screenShots/AboutMobileScreen.png" width="200" height="250">
-<img src="Delphinarium/screenShots/OffersMObileScreen.png" width="200" height="250">
+<img src="Delphinarium/screenShots/HomeMobileScreen.png" width="200" height="250"> <img src="Delphinarium/screenShots/HomeMobileScreen2.png" width="200" height="250">
+<img src="Delphinarium/screenShots/AboutMobileScreen.png" width="200" height="250"> <img src="Delphinarium/screenShots/OffersMObileScreen.png" width="200" height="250">
 
 
 ## <a id="installation"></a>Installation
