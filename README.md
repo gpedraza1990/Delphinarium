@@ -30,7 +30,7 @@
 ### Mobile Screen View
 
 <img src="Delphinarium/screenShots/HomeMobileScreen.png" width="200" height="250"> <img src="Delphinarium/screenShots/HomeMobileScreen2.png" width="200" height="250">
-<img src="Delphinarium/screenShots/AboutMobileScreen.png" width="200" height="250"> <img src="Delphinarium/screenShots/OffersMObileScreen.png" width="200" height="250">
+<img src="Delphinarium/screenShots/AboutMobileScreen.png" width="200" height="250"> <img src="Delphinarium/screenShots/OffersMobileScreen.png" width="200" height="250">
 
 
 ## <a id="installation"></a>Installation
