@@ -1,6 +1,4 @@
 
-https://api.github.com/gpedraza1990/Delphinarium/releases
-
 |**title**|**description**|
 |:-:|:-:|
 |Delphinarium|This is Bootstrap 4 front-end example with a great part of all JS functionalities of it.|
@@ -18,7 +16,7 @@ https://api.github.com/gpedraza1990/Delphinarium/releases
 
 ## <a id="screenshots"></a>Screenshots 
 
-	### Full Screen Views
+### Full Screen Views
 
 <img src="Delphinarium/screenShots/HomeFullScreen.png" width="300" height="250"> <img src="Delphinarium/screenShots/HomeFullScreen2.png" width="300" height="250">
 <img src="Delphinarium/screenShots/AboutFullScreen.png" width="300" height="250"> <img src="Delphinarium/screenShots/OffersFullScreen.png" width="300" height="250">
