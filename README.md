@@ -1,7 +1,7 @@
 
 |**title**|**description**|
 |:-:|:-:|
-|Delphinarium|This is Bootstrap 4 front-end example with a great part of all JS functionalities of it.|
+|Delphinarium|This is a Bootstrap 4 front-end example with a great part of all JS functionalities of it.|
 
 
 |**Chrome**|**Firefox**|
@@ -36,7 +36,7 @@ This requires just a browser and activate js scripts in your browser
 
 ## <a id="knowledge"></a>Knowledge
 
-> In ***Langueges:*** `Less`, `CSS`, `JavaScript` and `JQuery`. 
+> ***Langueges:*** `Less`, `CSS`, `JavaScript`, `HTML` and `JQuery`. 
 
 
 ## <a id="contact"></a>Contact
